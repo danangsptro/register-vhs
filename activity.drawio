@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T14:17:13.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TG6IwQ1E5D0VINojmH0y" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T14:17:40.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-mXeOEHgBBd4hPFh_6sF" version="20.0.3" type="github">
   <diagram id="xVroO1jQjPh8oVm8jgWk" name="Page-1">
-    <mxGraphModel dx="889" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
             <mxPoint x="124" y="154" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0DK0_3eSJEz5i2E3txn-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Menyiapkan Formulir&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#3BD8FF;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="E0DK0_3eSJEz5i2E3txn-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Menyiapkan Formulir Pendaftaran&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#3BD8FF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="256" y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E0DK0_3eSJEz5i2E3txn-48" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="E0DK0_3eSJEz5i2E3txn-38" target="E0DK0_3eSJEz5i2E3txn-47" edge="1">
