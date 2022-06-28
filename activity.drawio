@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T15:28:47.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FT6q-wTdMSFZKydYnecX" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T15:29:17.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nTapwxS1M20rBbs1tMgP" version="20.0.3" type="github">
   <diagram id="xVroO1jQjPh8oVm8jgWk" name="Page-1">
     <mxGraphModel dx="1293" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,13 @@
             <Array as="points">
               <mxPoint x="105" y="625" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFv2jDJB9cj611ka-RVD-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E0DK0_3eSJEz5i2E3txn-40" target="E0DK0_3eSJEz5i2E3txn-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172" y="678.55" as="targetPoint" />
+            <mxPoint x="-34" y="678.55" as="sourcePoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E0DK0_3eSJEz5i2E3txn-41" value="Kepala Sekolah" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
