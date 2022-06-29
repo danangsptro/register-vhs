@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T17:16:43.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3dIhB7_CttqGEy64jlEv" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T17:18:23.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="N0JJt1ByT0pipRDq4MCm" version="20.0.3" type="github">
   <diagram id="9a_Z9g353_YjI_8DOcAw" name="Page-1">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.911;exitY=1.2;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="oH6bqJKzUyiMTtH8EQfu-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="450" as="sourcePoint" />
-            <mxPoint x="750" y="280" as="targetPoint" />
+            <mxPoint x="750" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-25" value="" style="endArrow=none;dashed=1;html=1;strokeColor=default;strokeWidth=2;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="oH6bqJKzUyiMTtH8EQfu-19" edge="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="755" y="270" width="13" height="280" as="geometry" />
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-30" value="1. Membeli Formulir Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="277" y="248" width="220" height="30" as="geometry" />
+          <mxGeometry x="277" y="254" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,15 +59,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-32" value="2. Memberikan Formulir Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="287" y="281" width="220" height="30" as="geometry" />
+          <mxGeometry x="287" y="285" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-33" value="4. Mengisi Formulir Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="275" y="350" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.84;entryY=1.111;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="314" as="sourcePoint" />
-            <mxPoint x="171.1099999999999" y="312.20000000000005" as="targetPoint" />
+            <mxPoint x="750" y="318" as="sourcePoint" />
+            <mxPoint x="171.1099999999999" y="316.20000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-36" value="Kwitansi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3BD8FF;strokeWidth=2;" parent="1" vertex="1">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oH6bqJKzUyiMTtH8EQfu-52" value="3. Menerima Kwitansi Formulir Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="291" y="315" width="247" height="30" as="geometry" />
+          <mxGeometry x="291" y="317" width="247" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XG9Z36Z_60t1VsuyYPL3-1" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.532;entryY=1.2;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.077;exitY=0.593;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
