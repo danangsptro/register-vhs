@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:13:22.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="K60a52Yfc9fTOmJNwauM" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:18:02.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cGu5L7RK3sKLNJcSF-sM" version="20.2.2" type="github">
   <diagram id="if5ysVgG1gXo0QaTi_HV" name="Halaman-1">
-    <mxGraphModel dx="1497" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,11 +27,6 @@
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-64" value="Panitia Pendaftaran Siswa Baru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="210" height="790" as="geometry" />
-        </mxCell>
-        <mxCell id="b3hACEKCusYLDq1A1EaI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-65">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="880.3684210526317" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-65" value="TU" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="90" width="210" height="790" as="geometry" />
