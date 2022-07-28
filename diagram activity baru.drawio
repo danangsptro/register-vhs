@@ -1,41 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:18:02.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cGu5L7RK3sKLNJcSF-sM" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T12:54:27.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XtfcHI-by9lvmnSWIPZI" version="20.2.2" type="github">
   <diagram id="if5ysVgG1gXo0QaTi_HV" name="Halaman-1">
-    <mxGraphModel dx="889" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-60" value="Calon Siswa Baru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="90" width="210" height="790" as="geometry" />
-        </mxCell>
-        <mxCell id="b3hACEKCusYLDq1A1EaI-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sBAx-W3XVmk6Q6Ky_xsc-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="102.7" y="259" as="targetPoint" />
-            <mxPoint x="102.7" y="233.0000000000001" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="10" y="100" width="210" height="780" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-61" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="99" y="126" width="30" height="30" as="geometry" />
+          <mxGeometry x="99" y="148" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-62" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="114" y="180" as="targetPoint" />
-            <mxPoint x="114" y="144" as="sourcePoint" />
+            <mxPoint x="114" y="202" as="targetPoint" />
+            <mxPoint x="114" y="166" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-63" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Form Register&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#3BD8FF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="43" y="180" width="140" height="30" as="geometry" />
+          <mxGeometry x="43" y="203" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-64" value="Panitia Pendaftaran Siswa Baru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="90" width="210" height="790" as="geometry" />
+          <mxGeometry x="220" y="100" width="210" height="780" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-65" value="TU" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="90" width="210" height="790" as="geometry" />
+          <mxGeometry x="430" y="100" width="210" height="780" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-67" value="Kepala Sekolah" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="90" width="210" height="790" as="geometry" />
+          <mxGeometry x="640" y="100" width="210" height="780" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-68" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Menerima invoice Register&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#3BD8FF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="43" y="237" width="140" height="30" as="geometry" />
+          <mxGeometry x="43" y="264" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-69" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-63" target="sBAx-W3XVmk6Q6Ky_xsc-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -44,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-70" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Buat invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#3BD8FF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="256" y="180" width="140" height="30" as="geometry" />
+          <mxGeometry x="256" y="203" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-71" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-63" target="sBAx-W3XVmk6Q6Ky_xsc-70" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-72" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Form Pendaftaran&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#3BD8FF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="43" y="293" width="140" height="30" as="geometry" />
+          <mxGeometry x="43" y="328" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-73" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.466;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-70" target="sBAx-W3XVmk6Q6Ky_xsc-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -98,17 +92,14 @@
             <mxPoint x="110" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-89" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Berkas Persyaratan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#3BD8FF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="41" y="353" width="141" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-93" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="sBAx-W3XVmk6Q6Ky_xsc-76" edge="1" source="sBAx-W3XVmk6Q6Ky_xsc-89">
+        <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-93" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-72" target="sBAx-W3XVmk6Q6Ky_xsc-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="470" as="targetPoint" />
-            <mxPoint x="50" y="499" as="sourcePoint" />
+            <mxPoint x="111.5" y="380" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-94" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="sBAx-W3XVmk6Q6Ky_xsc-79" edge="1" source="sBAx-W3XVmk6Q6Ky_xsc-76">
+        <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-94" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-76" target="sBAx-W3XVmk6Q6Ky_xsc-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="470" as="targetPoint" />
             <mxPoint x="330" y="460" as="sourcePoint" />
@@ -123,13 +114,13 @@
             <mxPoint x="267" y="563" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-97" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.448;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="sBAx-W3XVmk6Q6Ky_xsc-82" edge="1" source="sBAx-W3XVmk6Q6Ky_xsc-80">
+        <mxCell id="sBAx-W3XVmk6Q6Ky_xsc-97" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.448;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-80" target="sBAx-W3XVmk6Q6Ky_xsc-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="393" y="654.63" as="targetPoint" />
             <mxPoint x="467" y="654.6300000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b3hACEKCusYLDq1A1EaI-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sBAx-W3XVmk6Q6Ky_xsc-83">
+        <mxCell id="b3hACEKCusYLDq1A1EaI-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="sBAx-W3XVmk6Q6Ky_xsc-83" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="640" as="targetPoint" />
             <mxPoint x="530.0000000000002" y="603.0000000000001" as="sourcePoint" />
@@ -138,7 +129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b3hACEKCusYLDq1A1EaI-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.443;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-83" target="sBAx-W3XVmk6Q6Ky_xsc-84">
+        <mxCell id="b3hACEKCusYLDq1A1EaI-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.443;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sBAx-W3XVmk6Q6Ky_xsc-83" target="sBAx-W3XVmk6Q6Ky_xsc-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="620" as="sourcePoint" />
             <mxPoint x="420" y="570" as="targetPoint" />
