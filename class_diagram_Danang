@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T10:47:25.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="iCRIlmHaI9sx8A_AUml9" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T13:16:52.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XJ9Qrud0ZqRN1IgiWzgj" version="20.2.4" type="github">
   <diagram id="3rGkw-_1mZVMK3wnPG13" name="Halaman-1">
-    <mxGraphModel dx="558" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aGknR25ZjfTZurU4Ixvo-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-102.5" width="135" height="135" as="geometry" />
+        </mxCell>
         <mxCell id="_1Bdq6vxM-9SFNuWcRu0-1" value="users" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#3BD8FF;swimlaneFillColor=#3BD8FF;" parent="1" vertex="1">
           <mxGeometry x="187" y="150" width="240" height="270" as="geometry">
             <mxRectangle x="190" y="150" width="160" height="26" as="alternateBounds" />
@@ -288,6 +291,9 @@
         </mxCell>
         <mxCell id="8mZyJJwxKPtViO34FJr4-10" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGknR25ZjfTZurU4Ixvo-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Role:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Siswa&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TU&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;panitia&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Kepala Sekolah&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-90" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
