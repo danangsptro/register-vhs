@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T17:57:31.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="q4Nx4XHjPqR6yHKhe7SV" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T06:02:24.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xEJnI0Mud7loViVyxXXS" version="20.2.5" type="github">
   <diagram id="3rGkw-_1mZVMK3wnPG13" name="Halaman-1">
-    <mxGraphModel dx="813" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,13 +199,13 @@
         <mxCell id="_1Bdq6vxM-9SFNuWcRu0-17" value="bukti_transfer_1 - varchar (100)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="PaCv2qn6bK3Vk0xCJQba-13" vertex="1">
           <mxGeometry y="78" width="210" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hjByLW0y0qfnqbLC3ktn-1" value="validasi_bukti_transfer_1" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PaCv2qn6bK3Vk0xCJQba-13">
+        <mxCell id="hjByLW0y0qfnqbLC3ktn-1" value="validasi_bukti_transfer_1" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="PaCv2qn6bK3Vk0xCJQba-13" vertex="1">
           <mxGeometry y="104" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BnMdhmQ-NennjEzOB10s-1" value="bukti_transfer_2 - varchar (100)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="PaCv2qn6bK3Vk0xCJQba-13" vertex="1">
           <mxGeometry y="130" width="210" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hjByLW0y0qfnqbLC3ktn-2" value="validasi_bukti_transfer_2" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PaCv2qn6bK3Vk0xCJQba-13">
+        <mxCell id="hjByLW0y0qfnqbLC3ktn-2" value="validasi_bukti_transfer_2" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="PaCv2qn6bK3Vk0xCJQba-13" vertex="1">
           <mxGeometry y="156" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BnMdhmQ-NennjEzOB10s-2" value="status_id - bigInter" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="PaCv2qn6bK3Vk0xCJQba-13" vertex="1">
