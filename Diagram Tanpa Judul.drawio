@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T09:58:01.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VkCZCE2wydpKIjNCtL34" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T15:22:40.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="m7KysCujlTOnPbyAzCIB" version="20.2.8" type="github">
   <diagram id="2KIT96QI7-xPNKFdnTv3" name="Halaman-1">
-    <mxGraphModel dx="1422" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="y96FYoVAzyEVzs2pSNnv-13" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;fillColor=#3BD8FF;" parent="1" vertex="1">
           <mxGeometry x="381.75" y="180" width="185.5" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="y96FYoVAzyEVzs2pSNnv-14" value="Approve Invoice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="401.5" y="197" width="146" height="30" as="geometry" />
+        <mxCell id="y96FYoVAzyEVzs2pSNnv-14" value="Approve Invoice Formulir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="386.5" y="197" width="178.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y96FYoVAzyEVzs2pSNnv-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="y96FYoVAzyEVzs2pSNnv-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,7 +79,7 @@
         <mxCell id="y96FYoVAzyEVzs2pSNnv-26" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;fillColor=#3BD8FF;" parent="1" vertex="1">
           <mxGeometry x="381.75" y="580" width="185.5" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="y96FYoVAzyEVzs2pSNnv-27" value="Invoice Pembayaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="y96FYoVAzyEVzs2pSNnv-27" value="Approve Invoice Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="409.5" y="597" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y96FYoVAzyEVzs2pSNnv-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="y96FYoVAzyEVzs2pSNnv-18" edge="1">
