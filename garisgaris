@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T07:02:36.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gHqRWqyBKvvwddRK_YMZ" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T07:03:11.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="U2XtwuRsEIQYvkK1blJn" version="20.4.0" type="github">
   <diagram id="TOWhH_j6DKf9lCblA_tM" name="Halaman-1">
     <mxGraphModel dx="1187" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
             <mxPoint x="620" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_u0tI2ShIY6nlUH6ClI-5" value="&lt;b style=&quot;&quot;&gt;&lt;i&gt;Threats &lt;/i&gt;(-50)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q_u0tI2ShIY6nlUH6ClI-5" value="&lt;b style=&quot;&quot;&gt;&lt;i&gt;Threats &lt;/i&gt;(-0,50)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_u0tI2ShIY6nlUH6ClI-6" value="&lt;b&gt;&lt;i&gt;Strength (+1,80)&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="591" y="220" width="119" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_u0tI2ShIY6nlUH6ClI-7" value="&lt;b&gt;&lt;i&gt;Opportunity (+155)&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q_u0tI2ShIY6nlUH6ClI-7" value="&lt;b&gt;&lt;i&gt;Opportunity (+1,55)&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_u0tI2ShIY6nlUH6ClI-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Q_u0tI2ShIY6nlUH6ClI-7">
@@ -31,8 +31,8 @@
             <mxPoint x="390" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_u0tI2ShIY6nlUH6ClI-9" value="&lt;b&gt;&lt;i&gt;Weakness &lt;/i&gt;(-50)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="220" width="90" height="30" as="geometry" />
+        <mxCell id="Q_u0tI2ShIY6nlUH6ClI-9" value="&lt;b&gt;&lt;i&gt;Weakness &lt;/i&gt;(-0,50)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_u0tI2ShIY6nlUH6ClI-10" value="&lt;b&gt;I. Agresif&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="60" height="30" as="geometry" />
